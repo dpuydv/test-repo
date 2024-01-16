@@ -20,6 +20,8 @@ function App() {
 
       <Form />
       <UseEffectExample />
+
+      <h1>End of Application</h1>
     </>
   )
 }
