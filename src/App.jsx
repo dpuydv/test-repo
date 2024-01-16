@@ -10,13 +10,9 @@ function App() {
   return (
     <>
       <h1>Deepu Yadav</h1>
-      {/* <State/> */}
-      {/* <UstateExample /> */}
-      {/* <h1></h1> */}
-      {/* <div className="layout" >
-        <h1>Form Handling</h1>
-        <Form />
-      </div> */}
+      <State />
+      <UseEffectExample />
+      <UstateExample />
 
       <Form />
       <UseEffectExample />
