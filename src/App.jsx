@@ -17,6 +17,8 @@ function App() {
         <h1>Form Handling</h1>
         <Form />
       </div> */}
+
+      <Form />
       <UseEffectExample />
     </>
   )
