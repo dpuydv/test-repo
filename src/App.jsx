@@ -5,6 +5,8 @@ import Form from "./Form"
 import './App.css'
 import UseEffectExample from "./UseEffectExample"
 import Users from "./Users"
+import UserRefExample from "./hooks/UserRefExample"
+import UseReducerExample from "./hooks/UseReducerExample"
 
 function App() {
 
@@ -22,7 +24,9 @@ function App() {
       {/* <Form />
       <UseEffectExample /> */}
 
-      <Users />
+      {/* <Users /> */}
+      {/* <UserRefExample /> */}
+      <UseReducerExample />
     </>
   )
 }
