@@ -4,6 +4,7 @@ import UstateExample from "./UstateExample"
 import Form from "./Form"
 import './App.css'
 import UseEffectExample from "./UseEffectExample"
+import Users from "./Users"
 
 function App() {
 
@@ -18,8 +19,10 @@ function App() {
         <Form />
       </div> */}
 
-      <Form />
-      <UseEffectExample />
+      {/* <Form />
+      <UseEffectExample /> */}
+
+      <Users />
     </>
   )
 }
